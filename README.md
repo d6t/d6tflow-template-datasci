@@ -1,4 +1,4 @@
-# d6tflow - Exploratory Data Analysis templates
+# Exploratory Data Analysis templates
 
 ## Helps you understand the data you are working with before modeling
 

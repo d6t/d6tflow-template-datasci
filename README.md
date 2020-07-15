@@ -26,4 +26,4 @@
 * [Project template for highly effective data science workflows]( https://github.com/d6t/d6tflow-template)  
 * [Python library for building highly effective data science workflows](https://github.com/d6t/d6tflow)  
 * [4 Reasons Why Your Machine Learning Code is Probably Bad](https://github.com/d6t/d6t-python/blob/master/blogs/reasons-why-bad-ml-code.rst)  
-* [Ultimate Guide to designing of successful end-to-end machine learning systems](https://github.com/d6t/d6t-python/blob/master/blogs/design-ml-e2e.md)
+* [Guide to managing data science projects from start to finish](https://github.com/d6t/d6t-python/blob/master/blogs/datasci-projects-e2e.md)
